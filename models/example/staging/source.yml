@@ -1,0 +1,9 @@
+version: 2
+sources:
+  - name: product
+    schema: DBT_ABICELLI
+    tables:
+      - name: Day0
+        description: "Prodotti di abbigliamento tempo 0: Day0"
+      - name: Day1
+        description: "Caricamento incrementale tempo 1: Day1"

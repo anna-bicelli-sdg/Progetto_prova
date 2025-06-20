@@ -1,0 +1,16 @@
+cd_product,product,desc_product,price,last_update_timestamp
+P001,Lacoste Polo Uomo,"Polo classica in cotone pique, logo coccodrillo aggiornato",105.49,2025-06-18T15:00:00Z
+P002,Lacoste Slim Fit Polo PH4012,"Polo slim fit in cotone pique, logo verde aggiornato",68.65,2025-06-18T15:00:00Z
+P003,Lacoste Polo L1212 Regular,"Polo regular fit in cotone, vari colori",75.6,2025-06-18T12:00:00Z
+P004,Tommy Hilfiger Tshirt Uomo,"Tshirt in cotone, logo sul petto",27.94,2025-06-18T12:00:00Z
+P005,Levi's Tshirt Uomo Original,Tshirt girocollo in cotone,14.99,2025-06-18T12:00:00Z
+P006,Levi's Tshirt Perfect Donna,"Tshirt donna in cotone, taglio regolare aggiornato",28.99,2025-06-18T15:00:00Z
+P007,Terranova Vestito Donna,"Vestito estivo legato al collo, taglie SXL",29.99,2025-06-18T12:00:00Z
+P008,bonprix Abito Jersey,Abito fluente in misto viscosaelastan,25.99,2025-06-18T12:00:00Z
+P009,Classic Denim Jeans Uomo,Jeans regular fit in cotone elasticizzato aggiornato,54.9,2025-06-18T15:00:00Z
+P010,Basic Hoodie Donna,"Felpa con cappuccio in cotone, tascone frontale",45.0,2025-06-18T12:00:00Z
+P011,Polo Sportiva Uomo,Polo sportiva in cotone traspirante,59.99,2025-06-18T15:00:00Z
+P012,Giacca Casual Donna,Giacca casual donna primavera,69.9,2025-06-18T15:00:00Z
+P013,Maglia Lana Uomo,Maglia lana uomo collo alto,89.0,2025-06-18T15:00:00Z
+P014,Pantaloni Chino Uomo,Pantaloni chino cotone beige,49.99,2025-06-18T15:00:00Z
+P015,Top Estivo Donna,Top estivo spalline sottili,29.9,2025-06-18T15:00:00Z
