@@ -21,7 +21,7 @@ updated_or_new as (
   {% endif %}
 ), -- seleziono tutte le colonne per righe nuove/ aggiornate
 
--- CTE che calcola per ogni prodotto il prezzo precedente
+
 price_day0 as (
   select
     cd_product,
@@ -31,7 +31,7 @@ price_day0 as (
   group by cd_product
 ),
 
--- CTE per changes_in_rows
+
 changes_rows as (
   select
     u.cd_product,
